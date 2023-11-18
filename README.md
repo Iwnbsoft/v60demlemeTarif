@@ -10,11 +10,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 Öncelikle projeyi clonelayın.
 
 ```
-<<<<<<< HEAD
-git clone https://github.com/Iwnbsoft/v60demlemeTarif
-=======
 git clone https://github.com/Iwnbsoft/htmlesson1.git
->>>>>>> ddcb612 (README new file added.)
 ```
 
 ## Usage
