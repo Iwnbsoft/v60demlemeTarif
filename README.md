@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 Öncelikle projeyi clonelayın.
 
 ```
-git clone https://github.com/Iwnbsoft/htmlesson1.git
+git clone https://github.com/mrtcla/v60demlemeTarif
 ```
 
 ## Usage
